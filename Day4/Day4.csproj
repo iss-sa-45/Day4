@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Day4.Program2</StartupObject>
+    <StartupObject>Day4.E4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="B9.cs" />
+    <Compile Include="D4.cs" />
+    <Compile Include="E1.cs" />
+    <Compile Include="E3.cs" />
+    <Compile Include="E4.cs" />
+    <Compile Include="E5.cs" />
     <Compile Include="Program1.cs" />
     <Compile Include="Program2.cs" />
     <Compile Include="Program3.cs" />
